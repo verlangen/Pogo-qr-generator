@@ -43,3 +43,9 @@ It’s simple, not perfect, but it gets the job done.
 
 ```bash
 python3 generate_qr_pdf.py
+```
+
+---
+
+## Example Output
+![Example Output](example_output.png)
